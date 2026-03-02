@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
 <title>Giới thiệu bản thân - Từ Thị Kim Thương</title>
 <style>
 body{font-family: Arial, sans-serif;background-color:#f2f4f8; margin:0;}
@@ -12,7 +8,6 @@ h2{ font-size:30px; color:#2c3e50; border-bottom:3px solid #4a90e2;  padding-bot
 .contact p{ font-size:19px;}
 .footer{ background:#2c3e50;color:white;text-align:center; padding:25px;margin-top:40px;font-size:18px;}
 </style>
-</head>
 <body>
 <div class="container">
 <h1>Giới thiệu bản thân</h1>
